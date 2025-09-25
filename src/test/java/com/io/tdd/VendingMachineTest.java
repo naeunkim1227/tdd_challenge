@@ -1,4 +1,4 @@
-package com.example.tddChallenge;
+package com.io.tdd;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
@@ -32,5 +32,4 @@ public class VendingMachineTest {
         //Then
         assertEquals(200, balance);
     }
-
 }

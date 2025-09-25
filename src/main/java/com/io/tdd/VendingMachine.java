@@ -1,4 +1,4 @@
-package com.example.tddChallenge;
+package com.io.tdd;
 
 import java.util.HashMap;
 import java.util.Map;

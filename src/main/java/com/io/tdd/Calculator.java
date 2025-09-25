@@ -1,4 +1,4 @@
-package com.example.tddChallenge;
+package com.io.tdd;
 
 public class Calculator {
     public int add(int a, int b) {

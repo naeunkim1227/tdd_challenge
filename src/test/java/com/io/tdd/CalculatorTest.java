@@ -1,4 +1,4 @@
-package com.example.tddChallenge;
+package com.io.tdd;
 
 
 import org.junit.jupiter.api.Test;
