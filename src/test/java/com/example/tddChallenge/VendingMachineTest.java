@@ -33,9 +33,4 @@ public class VendingMachineTest {
         assertEquals(200, balance);
     }
 
-
-    @Test
-    void 음료_가격보다_적은금액을_
-
-
 }
